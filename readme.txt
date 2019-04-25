@@ -1,2 +1,2 @@
 I am learning git.
-Git is free software.
+Git is free software distributed under GPL.
